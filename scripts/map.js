@@ -910,7 +910,7 @@ $(window).on('load', function() {
       if (url.indexOf('@') > 0) { url = 'mailto:' + url; }
       credit += '<a href="' + url + '">' + name + '</a> | ';
     } else if (name) {
-      credit += ' by ' + name + ' | ';
+      credit += name + ' | ';
     } else {
       credit += ' | ';
     }
