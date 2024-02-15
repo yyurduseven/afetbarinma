@@ -3,4 +3,4 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ## Live links
 - Leaflet Map https://yyurduseven.github.io/afetbarinma/
-- http://www.afetbarinma.com
+- http://www.afetbarinma.com (Not Live)
